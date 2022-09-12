@@ -2,5 +2,5 @@
 ----
 <br>
 <strong>
-Hi im a new python dev i will post some of my creation here
+Hi im a new python and web dev i will post some of my creation here
 </strong>
