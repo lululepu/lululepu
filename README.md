@@ -1,7 +1,5 @@
 # Lululepu - Python Developer
 
-![Profile Image](https://avatars.githubusercontent.com/u/103906131?v=4)
-
 ## Introduction
 
 Hello! 👋 I'm Lululepu, a passionate 13-year-old developer from France with a knack for Python and backend development.
