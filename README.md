@@ -1,5 +1,7 @@
 # Lululepu - Python Developer
 
+![](https://komarev.com/ghpvc/?username=lululepu)
+
 ## Introduction
 
 Hello! 👋 I'm Lululepu, a passionate 13-year-old developer from France with a knack for Python and backend development.
