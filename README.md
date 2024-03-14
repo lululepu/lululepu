@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello! 👋 I'm Lululepu, a passionate 13-year-old developer from France with a knack for Python and backend development.
+Hello! 👋 I'm Lululepu, a passionate 14-year-old developer from France with a knack for Python and backend development.
 
 ## 🔧 Skills
 
