@@ -10,7 +10,7 @@ Hello! 👋 I'm Lululepu, a passionate 14-year-old developer from France with a 
 
 - **Programming Languages:**
   - Python
-  - Node.js
+  - Node.js (Not really)
   - Bash
   - Batch
 
