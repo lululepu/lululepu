@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello! 👋 I'm Lululepu, a passionate 14-year-old developer from France with a knack for Python and backend development.
+Hello! 👋 I'm Lululepu, a passionate 15-year-old developer from France with a knack for Python and backend development.
 
 ## 🔧 Skills
 
@@ -13,13 +13,12 @@ Hello! 👋 I'm Lululepu, a passionate 14-year-old developer from France with a 
   - Node.js (Not really)
   - Bash
   - Batch
+  - C++ (the basics)
 
 ## 🌱 Currently Learning
 
-I'm constantly exploring new horizons and expanding my skill. Currently im learning:
-
-- Frontend technologies like HTML, CSS, and JavaScript.
-- Version control strategies and best practices.
+- Reverse Engineering 
+- C++/low level
 
 ## 📬 Contact
 
@@ -33,4 +32,4 @@ Feel free to connect with me! I'm always open to help and discussions.
 - French (Native)
 - English (Proficient)
 
-If you have any questions, suggestions, or just want to chat about tech, don't hesitate to reach out!
+If you have any questions/suggestions, don't hesitate to reach out!
